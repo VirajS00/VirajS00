@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Viraj Shukla, I love to code.
+
+- HTML, CSS
+- JavaScript (no frameworks yet)
+- PHP, MySQL
 
 <!--
 **VirajS00/VirajS00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
