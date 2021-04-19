@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Viraj Shukla, I love to code.
+My name is Viraj Shukla, I love to code 👨‍💻.
 
 - HTML, CSS
 - JavaScript
