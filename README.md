@@ -2,7 +2,7 @@
 My name is Viraj Shukla, I love to code.
 
 - HTML, CSS
-- JavaScript (no frameworks yet)
+- JavaScript
 - PHP, MySQL
 
 🌐 [website](http://virajshukla.com/)
