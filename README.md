@@ -1,10 +1,6 @@
 ### Hi there 👋
 My name is Viraj Shukla, I love to code 👨‍💻.
 
-- HTML, CSS
-- JavaScript
-- PHP, MySQL
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirajS00)](https://github.com/anuraghazra/github-readme-stats)
 
 🌐 [website](http://virajshukla.com/)
