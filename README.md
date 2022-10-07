@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Viraj Shukla, I was a film student 🎥 and I also code 🧑‍💻.
+My name is Viraj Shukla, I do Cinematography 🎥 and also code 🧑‍💻.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirajS00&theme=gotham)](https://github-readme-stats.vercel.app/api/top-langs/?username=VirajS00&theme=gotham)
 
