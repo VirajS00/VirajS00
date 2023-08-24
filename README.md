@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Viraj Shukla, I do Cinematography 🎥 and also code 🧑‍💻.
+My name is Viraj Shukla, I am currently working as a web developer 🧑‍💻 and also do photography 📸 anf cinematography 🎥 by the side.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirajS00&theme=gotham)](https://github-readme-stats.vercel.app/api/top-langs/?username=VirajS00&theme=gotham)
 
