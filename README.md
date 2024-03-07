@@ -1,9 +1,8 @@
 ### Hi there 👋
-My name is Viraj Shukla, I am currently working as a web developer 🧑‍💻 and also do photography 📸 anf cinematography 🎥 by the side.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VirajS00&theme=gotham)](https://github-readme-stats.vercel.app/api/top-langs/?username=VirajS00&theme=gotham)
-
-🌐 [website](http://virajshukla.com/)
+My name is Viraj Shukla, I am currently working as a web developer 🧑‍💻.
+- 🌱 I’m currently learning Go, Solid JS and Astro
+- ⚡ Fun fact: I studied cinematography in college
+- 📫 You can check out my 🌐 [website](http://virajshukla.com/)
 
 <!--
 **VirajS00/VirajS00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
